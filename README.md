@@ -56,7 +56,7 @@
 
 
 
-   <h3 align="center"> Wanna build something togehter reach out to me: </h3>
+   <h3 align="center"> Wanna build something together reach out to me: </h3>
 
 
 
