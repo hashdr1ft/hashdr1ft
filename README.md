@@ -1,6 +1,6 @@
 <!-- Hero Intro -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/258c6746-decc-4b2d-9397-8b635fc9fe6d" alt="giphy" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczlsNnJ1ZDd1NXcwNHo0ZGk2YnFpYmR0bXhyc2VwNDd5Y3R0dGt6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vIhEk4pOmFaVqnmBmb/giphy.gif" alt="giphy" width="400"/>
 </p>
 
 <h1 align="center">Hola, I'm <code>HashDrift</code> 🌀</h1>
